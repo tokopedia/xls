@@ -1,7 +1,6 @@
 package xls
 
 import (
-	"fmt"
 
 	formatter "github.com/tokopedia/xls/format"
 )
