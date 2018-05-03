@@ -7,7 +7,7 @@ import (
 
 	"time"
 
-	internalFmt "github.com/extrame/xls/format"
+	internalFmt "github.com/tokopedia/xls/format"
 )
 
 //content type
